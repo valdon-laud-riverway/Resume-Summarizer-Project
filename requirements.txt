@@ -1,0 +1,10 @@
+PyQt6
+mss
+pytesseract
+Pillow
+groq
+selenium
+webdriver-manager
+psutil
+pypdf
+requests
